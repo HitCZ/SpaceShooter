@@ -1,0 +1,14 @@
+D:\C# projects\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+D:\C# projects\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe
+D:\C# projects\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.pdb
+D:\C# projects\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csprojResolveAssemblyReference.cache
+D:\C# projects\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.Properties.Resources.resources
+D:\C# projects\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.GenerateResource.Cache
+D:\C# projects\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.exe
+D:\C# projects\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.pdb
+D:\C# projects\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.MainMenu.resources
+D:\C# projects\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.MainWindow.resources
+D:\C# projects\SpaceShooter\SpaceShooter\bin\Debug\Graphics\Hrac.bmp
+D:\C# projects\SpaceShooter\SpaceShooter\bin\Debug\Graphics\Nepritel1.bmp
+D:\C# projects\SpaceShooter\SpaceShooter\bin\Debug\Graphics\Nepritel2.bmp
+D:\C# projects\SpaceShooter\SpaceShooter\bin\Debug\Graphics\Strela.bmp
